@@ -4,7 +4,7 @@
         "title": "To keep clients: Do what you promise, communicate clearly, listen closely, and show you really care",
         "published_at": "2026-04-05T12:43:28Z",
         "duration": "PT55S",
-        "view_count": 3192,
+        "view_count": 3302,
         "like_count": 15,
         "comment_count": 1
     },
@@ -22,8 +22,35 @@
         "title": "When you're trying to learn a new deep skill, a structured approach is everything.",
         "published_at": "2026-04-03T12:18:34Z",
         "duration": "PT1M14S",
-        "view_count": 15347,
+        "view_count": 15408,
         "like_count": 116,
         "comment_count": 1
+    },
+    {
+        "video_id": "ajIss2t5FxM",
+        "title": "Lessons from 15,031 hours of coding live on Twitch with Chris Griffing [Podcast #214]",
+        "published_at": "2026-04-03T10:00:06Z",
+        "duration": "PT1H18M45S",
+        "view_count": 9814,
+        "like_count": 247,
+        "comment_count": 20
+    },
+    {
+        "video_id": "zJHXDuUzFkc",
+        "title": "The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert",
+        "published_at": "2026-04-02T20:01:46Z",
+        "duration": "PT46S",
+        "view_count": 12753,
+        "like_count": 65,
+        "comment_count": 1
+    },
+    {
+        "video_id": "Q4reYv2-t4g",
+        "title": "How streaming works in Next.js, explained with a simple example",
+        "published_at": "2026-04-02T11:52:24Z",
+        "duration": "PT43S",
+        "view_count": 12370,
+        "like_count": 111,
+        "comment_count": 2
     }
 ]
