@@ -1,4 +1,4 @@
-# YouTube Video Analyzer
+# YouTube Channel Statistics ELT
 
 This repository contains an ongoing project developed as part of a [Udemy course](https://www.udemy.com/course/start-your-data-engineering-journey-project-based-learning). The primary goal of this application is to build a data pipeline that uses the YouTube Data API to extract video information and statistics for analysis.
 
